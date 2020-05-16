@@ -1,8 +1,8 @@
-**Project Title**
+##Project Title
 
 A Digital Piano built with PIC18 MCU
 
-**Project Description**
+##Project Description
 
 There are mainly three features of our design.
 
@@ -27,12 +27,13 @@ clear the previous record of the music and start to record a new song,
 we can press the 'clear button' to delete all the previous record and
 start a new one.
 
-**System Architecture**
+##System Architecture
 
 ![](image/figure1.png)
+
 Figure 1: System Architecture
 
-**I/O Description**
+##I/O Description
 
 1.  Input:
 
@@ -44,16 +45,20 @@ Figure 1: System Architecture
 
     b.  7-segment LED: PORTD
 
-**Program Description**
+##Program Description
 
 ![](image/figure2.png)
+
 Figure 2: Flow Chart of Main and Setup
 
 ![](image/figure3.png)
+
 Figure 3: Flow Chart of GetNote
 
 ![](image/figure4.png)
+
 Figure 4: Flow Chart of GetFreq, Lookup7Seg and PlaySound
 
 ![](image/figure5.png)
+
 Figure 5: Flow Chart of PlayRecord and Pause
