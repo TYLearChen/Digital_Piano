@@ -29,9 +29,7 @@ start a new one.
 
 **System Architecture**
 
-![](image/figure1.png){width="5.171720253718285in"
-height="3.8010422134733157in"}
-
+![](image/figure1.png)
 Figure 1: System Architecture
 
 **I/O Description**
@@ -48,21 +46,14 @@ Figure 1: System Architecture
 
 **Program Description**
 
-![](image/figure2.png){width="5.807292213473316in"
-height="7.126123140857393in"}
-
+![](image/figure2.png)
 Figure 2: Flow Chart of Main and Setup
 
-![](image/figure3.png){width="5.954438976377952in"
-height="7.926041119860018in"}
-
+![](image/figure3.png)
 Figure 3: Flow Chart of GetNote
 
-![](image/figure4.png){width="6.640625546806649in"
-height="7.479166666666667in"}
-
+![](image/figure4.png)
 Figure 4: Flow Chart of GetFreq, Lookup7Seg and PlaySound
 
-![](image/figure5.png){width="5.5625in" height="8.85in"}
-
+![](image/figure5.png)
 Figure 5: Flow Chart of PlayRecord and Pause
