@@ -1,8 +1,12 @@
-##Project Title
+## Project Title
 
 A Digital Piano built with PIC18 MCU
 
-##Project Description
+## Project Description
+
+This is a final group project of EE2004 - Microcomputer Systems at City University of Hong Kong
+
+Because of our loves of music we decided to build a digital piano by a PIC18 development kit.
 
 There are mainly three features of our design.
 
@@ -27,13 +31,13 @@ clear the previous record of the music and start to record a new song,
 we can press the 'clear button' to delete all the previous record and
 start a new one.
 
-##System Architecture
+## System Architecture
 
 ![](image/figure1.png)
 
 Figure 1: System Architecture
 
-##I/O Description
+## I/O Description
 
 1.  Input:
 
@@ -45,7 +49,7 @@ Figure 1: System Architecture
 
     b.  7-segment LED: PORTD
 
-##Program Description
+## Program Description
 
 ![](image/figure2.png)
 
