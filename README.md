@@ -4,7 +4,7 @@ A Digital Piano built with PIC18 MCU
 
 ## Project Description
 
-This is a final group project of EE2004 - Microcomputer Systems at City University of Hong Kong
+This is a final group project of EE2004 - Microcomputer Systems at City University of Hong Kong, contributed by KUAN-TING KUO and TSUNG-YU CHEN.
 
 Because of our loves of music we decided to build a digital piano by a PIC18 development kit.
 
